@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ngonidzashe
 - 🤯 Call me Goni
 - 👀 I’m interested in Web Development and Branding Design.
-- 🌱 I’m currently learning HTML and CSS, Javascript next.
+- 🌱 I’m new to coding, and currently learning HTML and CSS then Javascript next.
 - 👉🏾 Say Hello.. gonidesigns@outlook.com
 
 <!---
