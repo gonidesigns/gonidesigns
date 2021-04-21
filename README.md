@@ -1,5 +1,5 @@
 - 👋 The name is Ngonidzashe, but you can call me Goni
-- 👀 I’m interested in Web Development and Branding Design.
+- 👀 A graphic designer with a strong passion and interest in Branding and Web Development.
 - 🌱 I’m new to coding, and currently learning HTML and CSS then Javascript next.
 - 👉🏾 Say Hello.. gonidesigns@outlook.com
 
